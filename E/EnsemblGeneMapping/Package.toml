@@ -1,0 +1,3 @@
+name = "EnsemblGeneMapping"
+uuid = "1f77eb72-0729-4ed2-97ea-5821b29540d7"
+repo = "https://github.com/damourChris/EnsemblGeneMapping.jl"
