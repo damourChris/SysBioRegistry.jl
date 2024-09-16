@@ -1,0 +1,6 @@
+name = "SysBioRegistry"
+uuid = "9220807d-6617-4137-a5ed-9804499f6854"
+repo = "https://github.com/damourChris/SysBioRegistry.jl"
+description = "A public registry to publish Sysbio related julia packages"
+
+[packages]
