@@ -4,3 +4,4 @@ repo = "https://github.com/damourChris/SysBioRegistry.jl"
 description = "A public registry to publish Sysbio related julia packages"
 
 [packages]
+3c35c355-0acb-4572-93be-ae4d2e4cf8bf = { name = "OntologyLookup", path = "O/OntologyLookup" }

@@ -1,0 +1,3 @@
+name = "OntologyLookup"
+uuid = "3c35c355-0acb-4572-93be-ae4d2e4cf8bf"
+repo = "https://github.com/damourChris/OntologyLookup.jl"
