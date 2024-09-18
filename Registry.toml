@@ -9,3 +9,4 @@ description = "A public registry to publish Sysbio related julia packages"
 3c35c355-0acb-4572-93be-ae4d2e4cf8bf = { name = "OntologyLookup", path = "O/OntologyLookup" }
 479be80e-0d6f-4501-bee0-9ae8a09d31d3 = { name = "ExpressionData", path = "E/ExpressionData" }
 66a9c265-a980-407a-b4a0-c883b541b1af = { name = "SyntheticExpressionMixtures", path = "S/SyntheticExpressionMixtures" }
+74a80de1-bd6a-4f9a-8ba7-e671a0fc0c09 = { name = "STRINGdb", path = "S/STRINGdb" }
