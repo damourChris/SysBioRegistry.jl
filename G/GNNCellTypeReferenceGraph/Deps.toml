@@ -17,3 +17,6 @@ OntologyLookup = "3c35c355-0acb-4572-93be-ae4d2e4cf8bf"
 
 ["1.0.4-1"]
 Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+
+["1.0.6-1"]
+OntologyLookup = "3c35c355-0acb-4572-93be-ae4d2e4cf8bf"
