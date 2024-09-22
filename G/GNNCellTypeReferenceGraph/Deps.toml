@@ -20,3 +20,9 @@ Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
 
 ["1.0.6-1"]
 OntologyLookup = "3c35c355-0acb-4572-93be-ae4d2e4cf8bf"
+
+["1.1-1"]
+Graphs = "86223c79-3864-5bf0-83f7-82e725a168b6"
+LightXML = "9c8b4983-aa76-5018-a973-4c85ecc9e179"
+ProteinMapping = "77d1cb5c-3182-408d-9927-e250d8aeeeea"
+STRINGdb = "74a80de1-bd6a-4f9a-8ba7-e671a0fc0c09"
