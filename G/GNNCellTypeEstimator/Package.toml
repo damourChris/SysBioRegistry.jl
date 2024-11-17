@@ -1,0 +1,3 @@
+name = "GNNCellTypeEstimator"
+uuid = "096a9847-e673-4c39-b617-2e8bc302fa74"
+repo = "https://github.com/damourChris/GNNCellTypeEstimator.jl"

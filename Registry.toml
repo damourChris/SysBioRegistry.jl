@@ -4,6 +4,7 @@ repo = "https://github.com/damourChris/SysBioRegistry.jl"
 description = "A public registry to publish Sysbio related julia packages"
 
 [packages]
+096a9847-e673-4c39-b617-2e8bc302fa74 = { name = "GNNCellTypeEstimator", path = "G/GNNCellTypeEstimator" }
 12ad8390-0efd-45b7-9ef7-467bf1407207 = { name = "OntoLinker", path = "O/OntoLinker" }
 1f77eb72-0729-4ed2-97ea-5821b29540d7 = { name = "EnsemblGeneMapping", path = "E/EnsemblGeneMapping" }
 334f4c7f-84a2-4aae-81dd-4d12ececaed7 = { name = "OntologyMapping", path = "O/OntologyMapping" }
